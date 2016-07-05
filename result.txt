@@ -1,0 +1,812 @@
+/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5 /Users/kk/Developer/PycharmProjects/recommender/analysis.py
+Current user: User 3156, gender: M, age: 35, occupation: 7, zip_code: 07663
+Current movie: Movie 3147, title: Green Mile, The (1999), genres: Drama|Thriller
+Actual Rating: 5
+Average Rating: 4.154664484451718
+Nearest Neighbour Rating: 4.869884959006764
+Slope One Rating: 3.108257525156407
+Hybrid Algorithm Rating: 5.012929053917773
+
+Current user: User 3446, gender: M, age: 25, occupation: 7, zip_code: 30620
+Current movie: Movie 1982, title: Halloween (1978), genres: Horror
+Actual Rating: 5
+Average Rating: 3.7134387351778657
+Nearest Neighbour Rating: 4.667882881720568
+Slope One Rating: 4.13786928793659
+Hybrid Algorithm Rating: 4.858771711029108
+
+Current user: User 332, gender: M, age: 50, occupation: 1, zip_code: 55109
+Current movie: Movie 1271, title: Fried Green Tomatoes (1991), genres: Drama
+Actual Rating: 4
+Average Rating: 3.806070826306914
+Nearest Neighbour Rating: 4.2314777714787395
+Slope One Rating: 4.650184601615182
+Hybrid Algorithm Rating: 4.316559160513105
+
+Current user: User 2122, gender: M, age: 35, occupation: 12, zip_code: 61614
+Current movie: Movie 1272, title: Patton (1970), genres: Drama|War
+Actual Rating: 5
+Average Rating: 4.266666666666667
+Nearest Neighbour Rating: 4.829032594548472
+Slope One Rating: 3.590523788637121
+Hybrid Algorithm Rating: 4.9415057801248325
+
+Current user: User 4189, gender: M, age: 35, occupation: 14, zip_code: 91364
+Current movie: Movie 246, title: Hoop Dreams (1994), genres: Documentary
+Actual Rating: 5
+Average Rating: 4.18854748603352
+Nearest Neighbour Rating: 4.907014077425127
+Slope One Rating: 4.9375
+Hybrid Algorithm Rating: 5.050707395703449
+
+Current user: User 3981, gender: F, age: 45, occupation: 0, zip_code: 97701
+Current movie: Movie 1294, title: M*A*S*H (1970), genres: Comedy|War
+Actual Rating: 4
+Average Rating: 4.124658780709736
+Nearest Neighbour Rating: 3.9591991416343313
+Slope One Rating: 2.841257775909188
+Hybrid Algorithm Rating: 3.9261072138192503
+
+Current user: User 3318, gender: M, age: 56, occupation: 13, zip_code: 30047
+Current movie: Movie 1267, title: Manchurian Candidate, The (1962), genres: Film-Noir|Thriller
+Actual Rating: 4
+Average Rating: 4.333333333333333
+Nearest Neighbour Rating: 4.723357106551896
+Slope One Rating: 4.1843171465371976
+Hybrid Algorithm Rating: 4.801361861195609
+
+Current user: User 2485, gender: M, age: 35, occupation: 14, zip_code: 95746
+Current movie: Movie 3591, title: Mr. Mom (1983), genres: Comedy|Drama
+Actual Rating: 4
+Average Rating: 3.4076433121019107
+Nearest Neighbour Rating: 3.555629282242249
+Slope One Rating: 4.095299756742478
+Hybrid Algorithm Rating: 3.5852264762703165
+
+Current user: User 3905, gender: M, age: 25, occupation: 17, zip_code: 361069
+Current movie: Movie 912, title: Casablanca (1942), genres: Drama|Romance|War
+Actual Rating: 5
+Average Rating: 4.412822049131217
+Nearest Neighbour Rating: 4.953894879724103
+Slope One Rating: 3.402348952299881
+Hybrid Algorithm Rating: 5.0621094458426805
+
+Current user: User 2934, gender: F, age: 35, occupation: 20, zip_code: 91324
+Current movie: Movie 520, title: Robin Hood: Men in Tights (1993), genres: Comedy
+Actual Rating: 2
+Average Rating: 2.93048128342246
+Nearest Neighbour Rating: 2.962670977599462
+Slope One Rating: 3.5804487031686865
+Hybrid Algorithm Rating: 2.9691089164348625
+
+Current user: User 4780, gender: M, age: 25, occupation: 12, zip_code: 94114
+Current movie: Movie 1304, title: Butch Cassidy and the Sundance Kid (1969), genres: Action|Comedy|Western
+Actual Rating: 4
+Average Rating: 4.215644820295983
+Nearest Neighbour Rating: 4.107642432045539
+Slope One Rating: 3.9040294549574894
+Hybrid Algorithm Rating: 4.0860419543954505
+
+Current user: User 1790, gender: M, age: 25, occupation: 0, zip_code: 19152
+Current movie: Movie 1722, title: Tomorrow Never Dies (1997), genres: Action|Romance|Thriller
+Actual Rating: 4
+Average Rating: 3.4419953596287702
+Nearest Neighbour Rating: 4.168899635229655
+Slope One Rating: 4.365604064985364
+Hybrid Algorithm Rating: 4.314280490349832
+
+Current user: User 4135, gender: M, age: 1, occupation: 10, zip_code: 46321
+Current movie: Movie 1732, title: Big Lebowski, The (1998), genres: Comedy|Crime|Mystery|Thriller
+Actual Rating: 5
+Average Rating: 3.7383773928896993
+Nearest Neighbour Rating: 4.576674063626284
+Slope One Rating: 3.7800773206350735
+Hybrid Algorithm Rating: 4.744333397773602
+
+Current user: User 1141, gender: F, age: 25, occupation: 3, zip_code: 84770
+Current movie: Movie 3105, title: Awakenings (1990), genres: Drama
+Actual Rating: 5
+Average Rating: 3.7808823529411764
+Nearest Neighbour Rating: 3.767218386730908
+Slope One Rating: 3.2539242564751834
+Hybrid Algorithm Rating: 3.764485593488854
+
+Current user: User 2309, gender: F, age: 45, occupation: 0, zip_code: 08901
+Current movie: Movie 237, title: Forget Paris (1995), genres: Comedy|Romance
+Actual Rating: 4
+Average Rating: 2.972762645914397
+Nearest Neighbour Rating: 3.869948369568783
+Slope One Rating: 3.8978516997530956
+Hybrid Algorithm Rating: 4.049385514299661
+
+Current user: User 1145, gender: M, age: 50, occupation: 3, zip_code: 92103
+Current movie: Movie 3921, title: Beach Party (1963), genres: Comedy
+Actual Rating: 1
+Average Rating: 2.6382978723404253
+Nearest Neighbour Rating: 2.257765314175708
+Slope One Rating: 5.575017955580135
+Hybrid Algorithm Rating: 2.181658802542765
+
+Current user: User 777, gender: M, age: 18, occupation: 19, zip_code: 87543
+Current movie: Movie 3263, title: White Men Can't Jump (1992), genres: Comedy
+Actual Rating: 4
+Average Rating: 3.188905547226387
+Nearest Neighbour Rating: 2.6836001370790394
+Slope One Rating: 2.451071841559265
+Hybrid Algorithm Rating: 2.58253905504957
+
+Current user: User 5066, gender: F, age: 25, occupation: 1, zip_code: 23603
+Current movie: Movie 1299, title: Killing Fields, The (1984), genres: Drama|War
+Actual Rating: 5
+Average Rating: 4.248633879781421
+Nearest Neighbour Rating: 4.83776518425063
+Slope One Rating: 4.199634924190452
+Hybrid Algorithm Rating: 4.955591445144472
+
+Current user: User 2053, gender: M, age: 45, occupation: 11, zip_code: 06416
+Current movie: Movie 3921, title: Beach Party (1963), genres: Comedy
+Actual Rating: 1
+Average Rating: 2.6382978723404253
+Nearest Neighbour Rating: 1.6408703016556894
+Slope One Rating: 3.0857254901960784
+Hybrid Algorithm Rating: 1.4413847875187422
+
+Current user: User 4363, gender: M, age: 35, occupation: 14, zip_code: 91602
+Current movie: Movie 329, title: Star Trek: Generations (1994), genres: Action|Adventure|Sci-Fi
+Actual Rating: 4
+Average Rating: 3.3767676767676766
+Nearest Neighbour Rating: 3.8122954886472207
+Slope One Rating: 4.585641421850817
+Hybrid Algorithm Rating: 3.8994010510231294
+
+Current user: User 5777, gender: M, age: 1, occupation: 0, zip_code: 05667
+Current movie: Movie 1214, title: Alien (1979), genres: Action|Horror|Sci-Fi|Thriller
+Actual Rating: 5
+Average Rating: 4.159584980237154
+Nearest Neighbour Rating: 4.791698898567189
+Slope One Rating: 3.372204947879325
+Hybrid Algorithm Rating: 4.9181216822331955
+
+Current user: User 4931, gender: M, age: 50, occupation: 17, zip_code: 90031
+Current movie: Movie 3649, title: American Gigolo (1980), genres: Drama
+Actual Rating: 3
+Average Rating: 3.169491525423729
+Nearest Neighbour Rating: 3.0718944199158087
+Slope One Rating: 4.94798748102795
+Hybrid Algorithm Rating: 3.0523749988142246
+
+Current user: User 1204, gender: M, age: 25, occupation: 7, zip_code: 95076
+Current movie: Movie 2718, title: Drop Dead Gorgeous (1999), genres: Comedy
+Actual Rating: 3
+Average Rating: 3.1305483028720626
+Nearest Neighbour Rating: 3.3567324022766547
+Slope One Rating: 3.7781036251548996
+Hybrid Algorithm Rating: 3.401969222157573
+
+Current user: User 2541, gender: F, age: 35, occupation: 5, zip_code: 49424
+Current movie: Movie 1614, title: In & Out (1997), genres: Comedy
+Actual Rating: 4
+Average Rating: 3.2803738317757007
+Nearest Neighbour Rating: 3.8794975092544615
+Slope One Rating: 2.9211797548937244
+Hybrid Algorithm Rating: 3.9993222447502137
+
+Current user: User 810, gender: M, age: 25, occupation: 12, zip_code: 98006
+Current movie: Movie 3489, title: Hook (1991), genres: Adventure|Fantasy
+Actual Rating: 3
+Average Rating: 3.018005540166205
+Nearest Neighbour Rating: 2.9890983025122573
+Slope One Rating: 4.042697722313787
+Hybrid Algorithm Rating: 2.9833168549814677
+
+Current user: User 5979, gender: M, age: 25, occupation: 1, zip_code: 43214
+Current movie: Movie 265, title: Like Water for Chocolate (Como agua para chocolate) (1992), genres: Drama|Romance
+Actual Rating: 3
+Average Rating: 3.9326424870466323
+Nearest Neighbour Rating: 3.705390092967153
+Slope One Rating: 3.462359294301955
+Hybrid Algorithm Rating: 3.659939614151257
+
+Current user: User 605, gender: F, age: 18, occupation: 4, zip_code: 44425
+Current movie: Movie 2881, title: Double Jeopardy (1999), genres: Action|Thriller
+Actual Rating: 4
+Average Rating: 3.2010178117048347
+Nearest Neighbour Rating: 3.962891559354324
+Slope One Rating: 4.679093084990967
+Hybrid Algorithm Rating: 4.115266308884222
+
+Current user: User 5604, gender: M, age: 35, occupation: 15, zip_code: 63117
+Current movie: Movie 1287, title: Ben-Hur (1959), genres: Action|Adventure|Drama
+Actual Rating: 2
+Average Rating: 4.110795454545454
+Nearest Neighbour Rating: 3.9034875916104457
+Slope One Rating: 3.2667693240262037
+Hybrid Algorithm Rating: 3.862026019023444
+
+Current user: User 2705, gender: M, age: 25, occupation: 1, zip_code: 27713
+Current movie: Movie 1094, title: Crying Game, The (1992), genres: Drama|Romance|War
+Actual Rating: 2
+Average Rating: 3.7314890154597236
+Nearest Neighbour Rating: 2.326423633231149
+Slope One Rating: 4.300335100075498
+Hybrid Algorithm Rating: 2.045410556785434
+
+Current user: User 3868, gender: M, age: 18, occupation: 12, zip_code: 73112
+Current movie: Movie 1703, title: For Richer or Poorer (1997), genres: Comedy
+Actual Rating: 3
+Average Rating: 2.935483870967742
+Nearest Neighbour Rating: 2.6479538765082244
+Slope One Rating: 3.7027696389870615
+Hybrid Algorithm Rating: 2.590447877616321
+
+Current user: User 4586, gender: M, age: 25, occupation: 4, zip_code: 01604
+Current movie: Movie 2502, title: Office Space (1999), genres: Comedy|Romance
+Actual Rating: 5
+Average Rating: 3.8211009174311927
+Nearest Neighbour Rating: 4.465956466337635
+Slope One Rating: 4.338505271747132
+Hybrid Algorithm Rating: 4.594927576118924
+
+Current user: User 825, gender: M, age: 56, occupation: 1, zip_code: 39532
+Current movie: Movie 947, title: My Man Godfrey (1936), genres: Comedy
+Actual Rating: 3
+Average Rating: 4.1063829787234045
+Nearest Neighbour Rating: 4.096790602856231
+Slope One Rating: 4.041663606082235
+Hybrid Algorithm Rating: 4.094872127682796
+
+Current user: User 2899, gender: M, age: 35, occupation: 14, zip_code: 94133
+Current movie: Movie 1259, title: Stand by Me (1986), genres: Adventure|Comedy|Drama
+Actual Rating: 3
+Average Rating: 4.0969187675070025
+Nearest Neighbour Rating: 3.9685008048414576
+Slope One Rating: 3.2940239603516916
+Hybrid Algorithm Rating: 3.9428172123083485
+
+Current user: User 3557, gender: M, age: 18, occupation: 5, zip_code: 48185
+Current movie: Movie 2025, title: Lolita (1997), genres: Drama|Romance
+Actual Rating: 4
+Average Rating: 3.3438914027149322
+Nearest Neighbour Rating: 3.8317127530640533
+Slope One Rating: 4.189799792865794
+Hybrid Algorithm Rating: 3.9292770231338774
+
+Current user: User 2591, gender: M, age: 18, occupation: 1, zip_code: 50310
+Current movie: Movie 1196, title: Star Wars: Episode V - The Empire Strikes Back (1980), genres: Action|Adventure|Drama|Sci-Fi|War
+Actual Rating: 4
+Average Rating: 4.292976588628763
+Nearest Neighbour Rating: 3.984038202116215
+Slope One Rating: 3.8043110407527023
+Hybrid Algorithm Rating: 3.9222505248137054
+
+Current user: User 5005, gender: M, age: 45, occupation: 16, zip_code: 92807
+Current movie: Movie 3438, title: Teenage Mutant Ninja Turtles (1990), genres: Action|Children's|Fantasy
+Actual Rating: 2
+Average Rating: 2.6779026217228465
+Nearest Neighbour Rating: 2.656911102579417
+Slope One Rating: 4.009360169617426
+Hybrid Algorithm Rating: 2.652712798750731
+
+Current user: User 5247, gender: F, age: 1, occupation: 10, zip_code: 01915
+Current movie: Movie 2707, title: Arlington Road (1999), genres: Thriller
+Actual Rating: 2
+Average Rating: 3.504731861198738
+Nearest Neighbour Rating: 2.258825095437367
+Slope One Rating: 2.948196093625362
+Hybrid Algorithm Rating: 2.009643742285093
+
+Current user: User 1676, gender: M, age: 18, occupation: 4, zip_code: 91301
+Current movie: Movie 1831, title: Lost in Space (1998), genres: Action|Sci-Fi|Thriller
+Actual Rating: 2
+Average Rating: 2.5847076461769114
+Nearest Neighbour Rating: 2.979773470017599
+Slope One Rating: 4.066874597450055
+Hybrid Algorithm Rating: 3.0587866347857364
+
+Current user: User 4527, gender: M, age: 18, occupation: 0, zip_code: 38111
+Current movie: Movie 3624, title: Shanghai Noon (2000), genres: Action
+Actual Rating: 3
+Average Rating: 3.6548672566371683
+Nearest Neighbour Rating: 3.381355754885787
+Slope One Rating: 3.8322133315973153
+Hybrid Algorithm Rating: 3.3266534545355104
+
+Current user: User 3908, gender: M, age: 25, occupation: 0, zip_code: 10021
+Current movie: Movie 3613, title: Things Change (1988), genres: Comedy
+Actual Rating: 4
+Average Rating: 3.75531914893617
+Nearest Neighbour Rating: 3.785588051882422
+Slope One Rating: 3.730183687810913
+Hybrid Algorithm Rating: 3.7916418324716723
+
+Current user: User 3627, gender: F, age: 35, occupation: 1, zip_code: 85287
+Current movie: Movie 1374, title: Star Trek: The Wrath of Khan (1982), genres: Action|Adventure|Sci-Fi
+Actual Rating: 3
+Average Rating: 3.880524861878453
+Nearest Neighbour Rating: 3.1126975413263795
+Slope One Rating: 3.632387865782182
+Hybrid Algorithm Rating: 2.959132077215965
+
+Current user: User 4271, gender: M, age: 35, occupation: 7, zip_code: 83405
+Current movie: Movie 3338, title: For All Mankind (1989), genres: Documentary
+Actual Rating: 5
+Average Rating: 4.444444444444445
+Nearest Neighbour Rating: 4.7823115631012785
+Slope One Rating: 1.558823529411765
+Hybrid Algorithm Rating: 4.849884986832645
+
+Current user: User 2134, gender: M, age: 18, occupation: 10, zip_code: 02780
+Current movie: Movie 2003, title: Gremlins (1984), genres: Comedy|Horror
+Actual Rating: 2
+Average Rating: 3.268041237113402
+Nearest Neighbour Rating: 2.419664289198285
+Slope One Rating: 3.8538114622252198
+Hybrid Algorithm Rating: 2.2499888996152615
+
+Current user: User 511, gender: F, age: 45, occupation: 4, zip_code: 15232
+Current movie: Movie 750, title: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963), genres: Sci-Fi|War
+Actual Rating: 4
+Average Rating: 4.4498902706656915
+Nearest Neighbour Rating: 4.1249701191172115
+Slope One Rating: 1.3950660027104347
+Hybrid Algorithm Rating: 4.059986088807515
+
+Current user: User 4495, gender: M, age: 18, occupation: 4, zip_code: 22906
+Current movie: Movie 3461, title: Lord of the Flies (1963), genres: Adventure|Drama|Thriller
+Actual Rating: 5
+Average Rating: 3.6657223796033995
+Nearest Neighbour Rating: 4.640235935053944
+Slope One Rating: 4.390901685272929
+Hybrid Algorithm Rating: 4.835138646144053
+
+Current user: User 116, gender: M, age: 25, occupation: 17, zip_code: 55744
+Current movie: Movie 788, title: Nutty Professor, The (1996), genres: Comedy|Fantasy|Romance|Sci-Fi
+Actual Rating: 4
+Average Rating: 2.9957805907172994
+Nearest Neighbour Rating: 3.748729511733728
+Slope One Rating: 4.516460941246489
+Hybrid Algorithm Rating: 3.8993192959370133
+
+Current user: User 765, gender: M, age: 25, occupation: 17, zip_code: 74467
+Current movie: Movie 1200, title: Aliens (1986), genres: Action|Sci-Fi|Thriller|War
+Actual Rating: 5
+Average Rating: 4.125824175824176
+Nearest Neighbour Rating: 4.301982518482744
+Slope One Rating: 2.8283390302462736
+Hybrid Algorithm Rating: 4.337214187014457
+
+Current user: User 5896, gender: M, age: 25, occupation: 0, zip_code: 60657
+Current movie: Movie 1550, title: Trial and Error (1997), genres: Comedy|Romance
+Actual Rating: 1
+Average Rating: 2.704225352112676
+Nearest Neighbour Rating: 2.4767488264936777
+Slope One Rating: 3.05426889626725
+Hybrid Algorithm Rating: 2.431253521369878
+
+Current user: User 3268, gender: M, age: 25, occupation: 12, zip_code: 04106
+Current movie: Movie 1270, title: Back to the Future (1985), genres: Comedy|Sci-Fi
+Actual Rating: 4
+Average Rating: 3.9903213317847466
+Nearest Neighbour Rating: 3.9531297976921813
+Slope One Rating: 3.7611470240860947
+Hybrid Algorithm Rating: 3.9456914908736684
+
+Current user: User 5819, gender: M, age: 50, occupation: 6, zip_code: 70808
+Current movie: Movie 110, title: Braveheart (1995), genres: Action|Drama|War
+Actual Rating: 5
+Average Rating: 4.234957020057307
+Nearest Neighbour Rating: 5.000000000000001
+Slope One Rating: 3.111273468894773
+Hybrid Algorithm Rating: 5.15300859598854
+
+Current user: User 5474, gender: M, age: 25, occupation: 12, zip_code: 20009
+Current movie: Movie 480, title: Jurassic Park (1993), genres: Action|Adventure|Sci-Fi
+Actual Rating: 3
+Average Rating: 3.7638473053892216
+Nearest Neighbour Rating: 3.2310578712471916
+Slope One Rating: 3.5034050369046503
+Hybrid Algorithm Rating: 3.1244999844187857
+
+Current user: User 5123, gender: M, age: 50, occupation: 12, zip_code: 34761
+Current movie: Movie 3301, title: Whole Nine Yards, The (2000), genres: Comedy|Crime
+Actual Rating: 3
+Average Rating: 3.3787375415282392
+Nearest Neighbour Rating: 3.472187444458533
+Slope One Rating: 3.0704078954045992
+Hybrid Algorithm Rating: 3.4908774250445918
+
+Current user: User 10, gender: F, age: 35, occupation: 1, zip_code: 95370
+Current movie: Movie 2436, title: Tea with Mussolini (1999), genres: Comedy
+Actual Rating: 5
+Average Rating: 3.5901639344262297
+Nearest Neighbour Rating: 4.069766067005249
+Slope One Rating: 4.006577045573645
+Hybrid Algorithm Rating: 4.1656864935210525
+
+Current user: User 5013, gender: M, age: 18, occupation: 4, zip_code: 26241
+Current movie: Movie 924, title: 2001: A Space Odyssey (1968), genres: Drama|Mystery|Sci-Fi|Thriller
+Actual Rating: 5
+Average Rating: 4.068764568764569
+Nearest Neighbour Rating: 4.953894879724103
+Slope One Rating: 3.989929787766653
+Hybrid Algorithm Rating: 5.130920941916011
+
+Current user: User 4044, gender: F, age: 35, occupation: 3, zip_code: 95826
+Current movie: Movie 3005, title: Bone Collector, The (1999), genres: Thriller
+Actual Rating: 5
+Average Rating: 3.3765625
+Nearest Neighbour Rating: 4.439331681529311
+Slope One Rating: 4.459058644373316
+Hybrid Algorithm Rating: 4.651885517835174
+
+Current user: User 2730, gender: M, age: 35, occupation: 11, zip_code: 48640
+Current movie: Movie 954, title: Mr. Smith Goes to Washington (1939), genres: Drama
+Actual Rating: 4
+Average Rating: 4.240208877284595
+Nearest Neighbour Rating: 4.392390960342023
+Slope One Rating: 3.620897665594128
+Hybrid Algorithm Rating: 4.422827376953508
+
+Current user: User 1999, gender: F, age: 35, occupation: 3, zip_code: 02113
+Current movie: Movie 1206, title: Clockwork Orange, A (1971), genres: Sci-Fi
+Actual Rating: 3
+Average Rating: 4.0781122864117165
+Nearest Neighbour Rating: 3.6265665036956647
+Slope One Rating: 3.5370390183174134
+Hybrid Algorithm Rating: 3.5362573471524543
+
+Current user: User 5983, gender: M, age: 25, occupation: 3, zip_code: 29208
+Current movie: Movie 1199, title: Brazil (1985), genres: Sci-Fi
+Actual Rating: 4
+Average Rating: 4.097480832420591
+Nearest Neighbour Rating: 4.063886765798886
+Slope One Rating: 3.77186599308082
+Hybrid Algorithm Rating: 4.057167952474544
+
+Current user: User 2665, gender: M, age: 35, occupation: 11, zip_code: 98443
+Current movie: Movie 2599, title: Election (1999), genres: Comedy
+Actual Rating: 4
+Average Rating: 3.9303547963206307
+Nearest Neighbour Rating: 3.576176629274559
+Slope One Rating: 2.194915542637291
+Hybrid Algorithm Rating: 3.5053409958653448
+
+Current user: User 5765, gender: M, age: 25, occupation: 11, zip_code: 44515
+Current movie: Movie 2788, title: And Now for Something Completely Different (1971), genres: Comedy
+Actual Rating: 5
+Average Rating: 4.137472283813747
+Nearest Neighbour Rating: 4.476473951162881
+Slope One Rating: 3.129086861748686
+Hybrid Algorithm Rating: 4.544274284632708
+
+Current user: User 516, gender: F, age: 56, occupation: 14, zip_code: 55033
+Current movie: Movie 1663, title: Stripes (1981), genres: Comedy
+Actual Rating: 3
+Average Rating: 3.8391891891891894
+Nearest Neighbour Rating: 3.527871668376924
+Slope One Rating: 2.5460270271302763
+Hybrid Algorithm Rating: 3.4656081642144705
+
+Current user: User 1566, gender: M, age: 35, occupation: 16, zip_code: 77550
+Current movie: Movie 858, title: Godfather, The (1972), genres: Action|Crime|Drama
+Actual Rating: 5
+Average Rating: 4.524966261808367
+Nearest Neighbour Rating: 4.955189568146066
+Slope One Rating: 2.7597713282885024
+Hybrid Algorithm Rating: 5.041234229413606
+
+Current user: User 4650, gender: M, age: 25, occupation: 7, zip_code: 30041
+Current movie: Movie 2871, title: Deliverance (1972), genres: Adventure|Thriller
+Actual Rating: 3
+Average Rating: 3.9410150891632374
+Nearest Neighbour Rating: 3.430521145992953
+Slope One Rating: 2.8728486973853515
+Hybrid Algorithm Rating: 3.328422357358896
+
+Current user: User 1817, gender: M, age: 35, occupation: 1, zip_code: 53706
+Current movie: Movie 1194, title: Up in Smoke (1978), genres: Comedy
+Actual Rating: 2
+Average Rating: 3.4764150943396226
+Nearest Neighbour Rating: 2.43568746155593
+Slope One Rating: 3.3591989599235137
+Hybrid Algorithm Rating: 2.2275419349991914
+
+Current user: User 1955, gender: M, age: 1, occupation: 19, zip_code: 03109
+Current movie: Movie 223, title: Clerks (1994), genres: Comedy
+Actual Rating: 5
+Average Rating: 3.946883852691218
+Nearest Neighbour Rating: 4.890330546443893
+Slope One Rating: 3.00167648407332
+Hybrid Algorithm Rating: 5.079019885194429
+
+Current user: User 1168, gender: F, age: 25, occupation: 0, zip_code: 94109
+Current movie: Movie 2, title: Jumanji (1995), genres: Adventure|Children's|Fantasy
+Actual Rating: 3
+Average Rating: 3.20114122681883
+Nearest Neighbour Rating: 2.7294255576255946
+Slope One Rating: 3.4886765494419074
+Hybrid Algorithm Rating: 2.6350824237869475
+
+Current user: User 4449, gender: M, age: 25, occupation: 12, zip_code: 27513
+Current movie: Movie 3326, title: What Planet Are You From? (2000), genres: Comedy|Sci-Fi
+Actual Rating: 4
+Average Rating: 2.8555555555555556
+Nearest Neighbour Rating: 3.613340259927296
+Slope One Rating: 4.970697828736541
+Hybrid Algorithm Rating: 3.764897200801644
+
+Current user: User 3670, gender: M, age: 45, occupation: 14, zip_code: 55123
+Current movie: Movie 3034, title: Robin Hood (1973), genres: Animation|Children's
+Actual Rating: 4
+Average Rating: 3.7434402332361514
+Nearest Neighbour Rating: 3.9431302605737986
+Slope One Rating: 2.8433096376981575
+Hybrid Algorithm Rating: 3.983068266041328
+
+Current user: User 748, gender: M, age: 25, occupation: 0, zip_code: 60098
+Current movie: Movie 1129, title: Escape from New York (1981), genres: Action|Adventure|Sci-Fi|Thriller
+Actual Rating: 4
+Average Rating: 3.4649321266968327
+Nearest Neighbour Rating: 3.9890014458055
+Slope One Rating: 4.576820354182327
+Hybrid Algorithm Rating: 4.093815309627233
+
+Current user: User 660, gender: M, age: 45, occupation: 16, zip_code: 70507
+Current movie: Movie 1693, title: Amistad (1997), genres: Drama
+Actual Rating: 3
+Average Rating: 3.717948717948718
+Nearest Neighbour Rating: 3.436941769568951
+Slope One Rating: 3.190315478979512
+Hybrid Algorithm Rating: 3.3807403798929974
+
+Current user: User 2622, gender: F, age: 35, occupation: 6, zip_code: 27516
+Current movie: Movie 1835, title: City of Angels (1998), genres: Romance
+Actual Rating: 3
+Average Rating: 3.289617486338798
+Nearest Neighbour Rating: 3.249826424012318
+Slope One Rating: 4.30285665367342
+Hybrid Algorithm Rating: 3.241868211547022
+
+Current user: User 4162, gender: F, age: 25, occupation: 14, zip_code: 23221
+Current movie: Movie 1198, title: Raiders of the Lost Ark (1981), genres: Action|Adventure
+Actual Rating: 4
+Average Rating: 4.477724741447892
+Nearest Neighbour Rating: 4.352958493024306
+Slope One Rating: 2.8294810699064072
+Hybrid Algorithm Rating: 4.328005243339589
+
+Current user: User 4009, gender: M, age: 18, occupation: 7, zip_code: 44039
+Current movie: Movie 610, title: Heavy Metal (1981), genres: Action|Adventure|Animation|Horror|Sci-Fi
+Actual Rating: 1
+Average Rating: 3.546925566343042
+Nearest Neighbour Rating: 2.2144247385422564
+Slope One Rating: 2.212773555430011
+Hybrid Algorithm Rating: 1.9479245729820993
+
+Current user: User 894, gender: M, age: 18, occupation: 4, zip_code: 31602
+Current movie: Movie 1291, title: Indiana Jones and the Last Crusade (1989), genres: Action|Adventure
+Actual Rating: 5
+Average Rating: 4.133292383292384
+Nearest Neighbour Rating: 5.000000000000001
+Slope One Rating: 4.348701973969498
+Hybrid Algorithm Rating: 5.1733415233415245
+
+Current user: User 2470, gender: M, age: 35, occupation: 18, zip_code: 52001
+Current movie: Movie 3927, title: Fantastic Voyage (1966), genres: Adventure|Sci-Fi
+Actual Rating: 3
+Average Rating: 3.5804597701149423
+Nearest Neighbour Rating: 3.2845807864677945
+Slope One Rating: 2.786748281116497
+Hybrid Algorithm Rating: 3.2254049897383648
+
+Current user: User 4516, gender: M, age: 18, occupation: 4, zip_code: 53142
+Current movie: Movie 3006, title: Insider, The (1999), genres: Drama
+Actual Rating: 4
+Average Rating: 4.0588235294117645
+Nearest Neighbour Rating: 4.160961901933141
+Slope One Rating: 4.322532462043854
+Hybrid Algorithm Rating: 4.181389576437416
+
+Current user: User 2385, gender: F, age: 45, occupation: 2, zip_code: 01545
+Current movie: Movie 318, title: Shawshank Redemption, The (1994), genres: Drama
+Actual Rating: 5
+Average Rating: 4.554557700942973
+Nearest Neighbour Rating: 5.000000000000001
+Slope One Rating: 3.3948029601498786
+Hybrid Algorithm Rating: 5.089088459811406
+
+Current user: User 5789, gender: M, age: 25, occupation: 17, zip_code: 91107
+Current movie: Movie 2687, title: Tarzan (1999), genres: Animation|Children's
+Actual Rating: 4
+Average Rating: 3.665158371040724
+Nearest Neighbour Rating: 4.071041069152862
+Slope One Rating: 4.3866437920955645
+Hybrid Algorithm Rating: 4.15221760877529
+
+Current user: User 1023, gender: M, age: 56, occupation: 13, zip_code: 92675
+Current movie: Movie 1230, title: Annie Hall (1977), genres: Comedy|Romance
+Actual Rating: 5
+Average Rating: 4.14167916041979
+Nearest Neighbour Rating: 4.8168531555400715
+Slope One Rating: 3.875060936201201
+Hybrid Algorithm Rating: 4.9518879545641274
+
+Current user: User 4485, gender: M, age: 25, occupation: 4, zip_code: 64112
+Current movie: Movie 1885, title: Opposite of Sex, The (1998), genres: Comedy|Drama
+Actual Rating: 5
+Average Rating: 3.692434210526316
+Nearest Neighbour Rating: 4.330231080691203
+Slope One Rating: 3.3954144480944306
+Hybrid Algorithm Rating: 4.457790454724181
+
+Current user: User 2726, gender: M, age: 45, occupation: 11, zip_code: 02155
+Current movie: Movie 1185, title: My Left Foot (1989), genres: Drama
+Actual Rating: 4
+Average Rating: 3.958057395143488
+Nearest Neighbour Rating: 4.674969298935797
+Slope One Rating: 4.813199517814253
+Hybrid Algorithm Rating: 4.818351679694259
+
+Current user: User 4427, gender: M, age: 18, occupation: 0, zip_code: 51104
+Current movie: Movie 2427, title: Thin Red Line, The (1998), genres: Action|Drama|War
+Actual Rating: 2
+Average Rating: 3.398505603985056
+Nearest Neighbour Rating: 2.0232373324487964
+Slope One Rating: 3.677065950031829
+Hybrid Algorithm Rating: 1.7481836781415445
+
+Current user: User 1665, gender: M, age: 45, occupation: 17, zip_code: 87505
+Current movie: Movie 2660, title: Thing From Another World, The (1951), genres: Sci-Fi
+Actual Rating: 5
+Average Rating: 3.8962962962962964
+Nearest Neighbour Rating: 4.297073067798272
+Slope One Rating: 3.472182277311691
+Hybrid Algorithm Rating: 4.377228422098667
+
+Current user: User 4942, gender: M, age: 45, occupation: 12, zip_code: 40515
+Current movie: Movie 969, title: African Queen, The (1951), genres: Action|Adventure|Romance|War
+Actual Rating: 4
+Average Rating: 4.251655629139073
+Nearest Neighbour Rating: 4.458262145196497
+Slope One Rating: 2.790843705843646
+Hybrid Algorithm Rating: 4.499583448407982
+
+Current user: User 4483, gender: F, age: 25, occupation: 6, zip_code: 72703
+Current movie: Movie 111, title: Taxi Driver (1976), genres: Drama|Thriller
+Actual Rating: 3
+Average Rating: 4.183870967741935
+Nearest Neighbour Rating: 3.651685502826288
+Slope One Rating: 2.4698290357463315
+Hybrid Algorithm Rating: 3.5452484098431585
+
+Current user: User 4814, gender: M, age: 18, occupation: 14, zip_code: 80526
+Current movie: Movie 1297, title: Real Genius (1985), genres: Comedy
+Actual Rating: 4
+Average Rating: 3.7081447963800906
+Nearest Neighbour Rating: 4.1255205919579945
+Slope One Rating: 3.383204323933876
+Hybrid Algorithm Rating: 4.208995751073576
+
+Current user: User 2357, gender: F, age: 35, occupation: 14, zip_code: 13316
+Current movie: Movie 3895, title: Watcher, The (2000), genres: Crime|Thriller
+Actual Rating: 3
+Average Rating: 2.3404255319148937
+Nearest Neighbour Rating: 3.281920208857945
+Slope One Rating: 4.8400143729797085
+Hybrid Algorithm Rating: 3.4702191442465553
+
+Current user: User 3646, gender: M, age: 35, occupation: 20, zip_code: 98106
+Current movie: Movie 2532, title: Conquest of the Planet of the Apes (1972), genres: Action|Sci-Fi
+Actual Rating: 5
+Average Rating: 2.8435754189944134
+Nearest Neighbour Rating: 3.7543014213241523
+Slope One Rating: 4.813578635240874
+Hybrid Algorithm Rating: 3.9364466217901
+
+Current user: User 751, gender: F, age: 25, occupation: 17, zip_code: 97201
+Current movie: Movie 1673, title: Boogie Nights (1997), genres: Drama
+Actual Rating: 4
+Average Rating: 3.769503546099291
+Nearest Neighbour Rating: 4.036104244184942
+Slope One Rating: 3.40094187746918
+Hybrid Algorithm Rating: 4.089424383802073
+
+Current user: User 4885, gender: M, age: 56, occupation: 1, zip_code: 23513
+Current movie: Movie 919, title: Wizard of Oz, The (1939), genres: Adventure|Children's|Drama|Musical
+Actual Rating: 5
+Average Rating: 4.247962747380675
+Nearest Neighbour Rating: 5.000000000000001
+Slope One Rating: 4.1825299685568265
+Hybrid Algorithm Rating: 5.150407450523866
+
+Current user: User 3154, gender: F, age: 25, occupation: 4, zip_code: 95616
+Current movie: Movie 2539, title: Analyze This (1999), genres: Comedy
+Actual Rating: 5
+Average Rating: 3.3944805194805197
+Nearest Neighbour Rating: 3.7199803696019558
+Slope One Rating: 4.07418573279305
+Hybrid Algorithm Rating: 3.785080339626243
+
+Current user: User 2598, gender: M, age: 25, occupation: 17, zip_code: 20866
+Current movie: Movie 858, title: Godfather, The (1972), genres: Action|Crime|Drama
+Actual Rating: 5
+Average Rating: 4.524966261808367
+Nearest Neighbour Rating: 4.905989203191706
+Slope One Rating: 3.095206359602944
+Hybrid Algorithm Rating: 4.982193791468374
+
+Current user: User 4716, gender: F, age: 25, occupation: 16, zip_code: 02465
+Current movie: Movie 3083, title: All About My Mother (Todo Sobre Mi Madre) (1999), genres: Comedy|Drama
+Actual Rating: 5
+Average Rating: 4.086294416243655
+Nearest Neighbour Rating: 4.752841250367477
+Slope One Rating: 4.169581314324277
+Hybrid Algorithm Rating: 4.886150617192241
+
+Current user: User 1984, gender: M, age: 18, occupation: 10, zip_code: 92130
+Current movie: Movie 1466, title: Donnie Brasco (1997), genres: Crime|Drama
+Actual Rating: 3
+Average Rating: 3.7955493741307373
+Nearest Neighbour Rating: 3.6728634233520223
+Slope One Rating: 3.7257486100734027
+Hybrid Algorithm Rating: 3.648326233196279
+
+Current user: User 2379, gender: M, age: 18, occupation: 18, zip_code: 13045
+Current movie: Movie 1213, title: GoodFellas (1990), genres: Crime|Drama
+Actual Rating: 5
+Average Rating: 4.275196137598069
+Nearest Neighbour Rating: 4.907599330244195
+Slope One Rating: 3.9554395279200625
+Hybrid Algorithm Rating: 5.03407996877342
+
+Current user: User 1507, gender: M, age: 35, occupation: 17, zip_code: 95476
+Current movie: Movie 3600, title: Blue Hawaii (1961), genres: Comedy|Musical
+Actual Rating: 3
+Average Rating: 2.8264462809917354
+Nearest Neighbour Rating: 3.0082474867006708
+Slope One Rating: 5.676946555025629
+Hybrid Algorithm Rating: 3.044607727842458
+
+Current user: User 1552, gender: M, age: 45, occupation: 20, zip_code: 10021
+Current movie: Movie 3077, title: 42 Up (1998), genres: Documentary
+Actual Rating: 5
+Average Rating: 4.2272727272727275
+Nearest Neighbour Rating: 4.490631890476662
+Slope One Rating: 4.1567513624835275
+Hybrid Algorithm Rating: 4.5433037231174485
+
+Current user: User 1530, gender: M, age: 25, occupation: 4, zip_code: 53711
+Current movie: Movie 434, title: Cliffhanger (1993), genres: Action|Adventure|Crime
+Actual Rating: 3
+Average Rating: 3.0845481049562684
+Nearest Neighbour Rating: 2.8703841081852426
+Slope One Rating: 4.413793192309747
+Hybrid Algorithm Rating: 2.8275513088310373
+
+Current user: User 271, gender: M, age: 18, occupation: 4, zip_code: 48202
+Current movie: Movie 1784, title: As Good As It Gets (1997), genres: Comedy|Drama
+Actual Rating: 4
+Average Rating: 3.9501404494382024
+Nearest Neighbour Rating: 4.13882122866223
+Slope One Rating: 3.7381398254859444
+Hybrid Algorithm Rating: 4.176557384507035
+
+Current user: User 5020, gender: F, age: 56, occupation: 13, zip_code: 90241
+Current movie: Movie 3397, title: Great Muppet Caper, The (1981), genres: Children's|Comedy
+Actual Rating: 4
+Average Rating: 3.7374301675977653
+Nearest Neighbour Rating: 3.7723454592718064
+Slope One Rating: 3.4667208888551495
+Hybrid Algorithm Rating: 3.7793285176066145
+
+RMSD of each recommender system
+#############################    Average Rating    #############################
+1.0099504938362078
+###########################    Nearest Neighbour    ############################
+0.565685424949238
+###############################    Slope One    ################################
+1.4106735979665885
+############################    Hybrid Algorithm    ############################
+0.5099019513592785
+
+Process finished with exit code 0
