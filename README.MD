@@ -19,4 +19,4 @@ PS: `slope one` has a poor performance, I don't come up with a good idea to dete
 
 
 ### Screenshot
-![screenshot](https://github.github.com/bebound/recommender/master/Screenshot/1.png)
+![screenshot](https://raw.githubusercontent.com/bebound/recommender/master/Screenshot/1.png)
