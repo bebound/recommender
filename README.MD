@@ -20,3 +20,18 @@ PS: `slope one` has a poor performance, I don't come up with a good idea to dete
 
 ### Screenshot
 ![screenshot](https://raw.githubusercontent.com/bebound/recommender/master/Screenshot/1.png)
+
+### Sample Result
+
+When seed = 0, sample number = 100, RMSD is
+
+```
+#############################    Average Rating    #############################
+1.0099504938362078
+###########################    Nearest Neighbour    ############################
+0.565685424949238
+###############################    Slope One    ################################
+1.224744871391589
+############################    Hybrid Algorithm    ############################
+0.5099019513592785
+```
