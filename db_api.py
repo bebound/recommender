@@ -58,12 +58,12 @@ def get_user_watched_two_movies(movie1_id, movie2_id):
     return [i.user_id for i in a if i.watched == 2]
 
 
-def get_two_movies_average_rating(movie1_id, movie2_id, threshold=10):
+def get_two_movies_average_rating(movie1_id, movie2_id, threshold=50):
     """return the average rating for two movies, based on the users who have watched both of the movies"""
     users = get_user_watched_two_movies(movie1_id, movie2_id)
     if users and len(users) > threshold:
         ratings1 = Rating.select(Rating.rating).where(Rating.movie_id == movie1_id, Rating.user_id << users)
         ratings2 = Rating.select(Rating.rating).where(Rating.movie_id == movie2_id, Rating.user_id << users)
-        return statistics.mean([i.rating for i in ratings1]), statistics.mean([i.rating for i in ratings2])
+        return statistics.mean([i.rating for i in ratings1]), statistics.mean([i.rating for i in ratings2]), len(users)
     else:
-        return 0, 0
+        return 0, 0, 0

@@ -5,7 +5,7 @@ import sys
 from db_api import *
 from recommender import average_rating, nearest_neighbour, slope_one, hybrid_algorithm
 
-random.seed(3)
+random.seed(0)
 
 _DEBUG = False
 _SAMPLE_NUMBER = 100
@@ -14,6 +14,14 @@ _SAMPLE_NUMBER = 100
 def rmsd(a, b):
     """calculate root-mean-square deviation"""
     return math.sqrt(statistics.mean([(i - round(j)) ** 2 for i, j in zip(a, b)]))
+
+
+def parse_result(a):
+    if a > 5:
+        a = 5
+    elif a < 0:
+        a = 0
+    return a
 
 
 def main():
@@ -40,14 +48,10 @@ def main():
         nearest_neighbour_result.append(nearest)
         slope = slope_one(user_id, movie_id, True)
         print('Slope One Rating:', slope)
-        slope_one_result.append(slope)
+        slope_one_result.append(parse_result(slope))
         hybrid = hybrid_algorithm(avg, nearest, slope, True)
         print('Hybrid Algorithm Rating:', hybrid)
-        if hybrid > 5:
-            hybrid = 5
-        elif hybrid < 0:
-            hybrid = 0
-        hybird_result.append(hybrid)
+        hybird_result.append(parse_result(hybrid))
         print()
 
     if _DEBUG:

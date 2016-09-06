@@ -163,6 +163,14 @@ def genres_similarity(movie_id, genres):
     return count
 
 
+def parse_result(a):
+    if a > 5.5:
+        a = 5.5
+    elif a < -0.5:
+        a = -0.5
+    return a
+
+
 def slope_one(user_id, movie_id, silence=False):
     """use slope one algorithm to recommend"""
     watched_movies = [i.movie_id for i in get_movie_rating_by_user(user_id)]
@@ -174,10 +182,15 @@ def slope_one(user_id, movie_id, silence=False):
     for movie in watched_movies:
         if genres_similarity(movie, target_genres):
             user_rating = get_user_movie_rating(user_id, movie)
-            movie_rating, target_movie_rating = get_two_movies_average_rating(movie, movie_id)
-            predict_ratings.append(user_rating + (movie_rating - target_movie_rating))
-
-    predict_value = statistics.mean(predict_ratings)
+            movie_rating, target_movie_rating, weight = get_two_movies_average_rating(movie, movie_id)
+            if weight != 0:
+                guess_rating = user_rating + movie_rating - target_movie_rating
+                for i in range(weight):
+                    predict_ratings.append(parse_result(guess_rating))
+    if predict_ratings:
+        predict_value = statistics.mean(predict_ratings)
+    else:
+        predict_value = average_rating(movie_id, True)
 
     if not silence:
         print('    Slope One    '.center(80, '#'))
